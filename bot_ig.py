@@ -9,7 +9,7 @@ import time
 # ==========================================================
 # 1. KONFIGURASI SESUAI KOORDINAT BARU
 # ==========================================================
-MONITOR = {'top': 186, 'left': 90, 'width': 383, 'height': 686}
+MONITOR = {'top': 93, 'left': 169, 'width': 501, 'height': 896}
 
 # Area scan dari 25% sampai 90% tinggi layar
 SCAN_AREA = {
